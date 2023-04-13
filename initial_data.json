@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Vanguard S&P 500",
+		"ISIN": "IE00B3XXRP09",
+        "asset_type": "ETF",
+	    "currency": "USD",
+	    "max_spread": 1.00,
+	    "value": 1417491.53
+	},
+    {
+        "name": "BlackRock EU Fund",
+		"ISIN": "XS2427362145",
+        "asset_type": "Hedge fund",
+	    "currency": "EUR",
+	    "max_spread": 1.00,
+	    "value": 59978.96
+	},
+    {
+        "name": "iShares STOXX Europe",
+		"ISIN": "DE0002635307",
+        "asset_type": "ETF",
+	    "currency": "EUR",
+	    "max_spread": 1.00,
+	    "value": 1405358.22
+	},
+    {
+        "name": "Vanguard S&P 500",
+		"ISIN": "LU1681046006",
+        "asset_type": "ETF",
+	    "currency": "EUR",
+	    "max_spread": 1.00,
+	    "value": 198966.88
+	}
+]
